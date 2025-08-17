@@ -1,6 +1,3 @@
 # ninja log v5
-0	1347	7771277176268952	CMakeFiles/Circle.dir/src/Circle.cpp.obj	e9c1b9feee6f8327
-3	1302	7771285270801717	CMakeFiles/Circle.dir/src/Circle.cpp.obj	e9c1b9feee6f8327
-1303	2746	7771285285185508	Circle.exe	9de4938cca8da1f7
-3	1258	7771287562398797	CMakeFiles/Circle.dir/src/Circle.cpp.obj	e9c1b9feee6f8327
-1259	2655	7771287576288200	Circle.exe	9de4938cca8da1f7
+1	835	7771370101230845	CMakeFiles/Circle.dir/src/Circle.cpp.obj	b4c290860de9890f
+837	7291	7771370165337302	Circle.exe	66c50f7b96eafc2f

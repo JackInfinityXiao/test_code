@@ -1,8 +1,8 @@
 [
 {
-  "directory": "D:/master0/code/build",
-  "command": "D:\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Circle.dir\\src\\Circle.cpp.obj -c D:\\master0\\code\\src\\Circle.cpp",
-  "file": "D:\\master0\\code\\src\\Circle.cpp",
+  "directory": "D:/master0/code/test_code/build",
+  "command": "D:\\MICROS~1\\2022\\PROFES~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Circle.dir\\src\\Circle.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\master0\\code\\test_code\\src\\Circle.cpp",
+  "file": "D:\\master0\\code\\test_code\\src\\Circle.cpp",
   "output": "CMakeFiles\\Circle.dir\\src\\Circle.cpp.obj"
 }
 ]

@@ -1,3 +1,3 @@
-D:/master0/code/build/CMakeFiles/Circle.dir
-D:/master0/code/build/CMakeFiles/edit_cache.dir
-D:/master0/code/build/CMakeFiles/rebuild_cache.dir
+D:/master0/code/test_code/build/CMakeFiles/Circle.dir
+D:/master0/code/test_code/build/CMakeFiles/edit_cache.dir
+D:/master0/code/test_code/build/CMakeFiles/rebuild_cache.dir
