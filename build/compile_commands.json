@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/master0/code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\Circle.dir\\src\\Circle.cpp.obj -c D:\\master0\\code\\src\\Circle.cpp",
+  "file": "D:\\master0\\code\\src\\Circle.cpp",
+  "output": "CMakeFiles\\Circle.dir\\src\\Circle.cpp.obj"
+}
+]
